@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    text-decoration: none;
+}
+
+body{
+    background-color: lightblue;
+}
+#name{
+    width:80%;
+    padding:5px;
+    border-radius: 5%;
+    outline: 0;
+    border: 1px solid lightgrey;
+}
+
+table{
+    color:black;
+    width: 50%;
+    height: 100vh;
+    background-color: burlywood;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: serif;
+    padding: 50px;
+    border: 5px solid white;
+    text-align: -webkit-center
+
+}
